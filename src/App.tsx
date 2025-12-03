@@ -14,7 +14,6 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>📋 Tasks App</h1>
-        <p>Manage your tasks efficiently with a modern full-stack application</p>
       </header>
 
       <main className="app-main">
